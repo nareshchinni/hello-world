@@ -1,2 +1,2 @@
-<h1> Hello, Welcome to Naresh chinni Technologies !!! </h1>
+<h1> Hello, Welcome to Naresh chinni IT Technologies !!! </h1>
 
